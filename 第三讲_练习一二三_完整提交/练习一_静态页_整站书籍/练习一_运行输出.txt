@@ -1,0 +1,73 @@
+抓取首页，识别总页数…
+共 50 页
+  page-1.html  -> 20 条（累计 20）
+  page-2.html  -> 20 条（累计 40）
+  page-3.html  -> 20 条（累计 60）
+  page-4.html  -> 20 条（累计 80）
+  page-5.html  -> 20 条（累计 100）
+  page-6.html  -> 20 条（累计 120）
+  page-7.html  -> 20 条（累计 140）
+  page-8.html  -> 20 条（累计 160）
+  page-9.html  -> 20 条（累计 180）
+  page-10.html  -> 20 条（累计 200）
+  page-11.html  -> 20 条（累计 220）
+  page-12.html  -> 20 条（累计 240）
+  page-13.html  -> 20 条（累计 260）
+  page-14.html  -> 20 条（累计 280）
+  page-15.html  -> 20 条（累计 300）
+  page-16.html  -> 20 条（累计 320）
+  page-17.html  -> 20 条（累计 340）
+  page-18.html  -> 20 条（累计 360）
+  page-19.html  -> 20 条（累计 380）
+  page-20.html  -> 20 条（累计 400）
+  page-21.html  -> 20 条（累计 420）
+  page-22.html  -> 20 条（累计 440）
+  page-23.html  -> 20 条（累计 460）
+  page-24.html  -> 20 条（累计 480）
+  page-25.html  -> 20 条（累计 500）
+  page-26.html  -> 20 条（累计 520）
+  page-27.html  -> 20 条（累计 540）
+  page-28.html  -> 20 条（累计 560）
+  page-29.html  -> 20 条（累计 580）
+  page-30.html  -> 20 条（累计 600）
+  page-31.html  -> 20 条（累计 620）
+  page-32.html  -> 20 条（累计 640）
+  page-33.html  -> 20 条（累计 660）
+  page-34.html  -> 20 条（累计 680）
+  page-35.html  -> 20 条（累计 700）
+  page-36.html  -> 20 条（累计 720）
+  page-37.html  -> 20 条（累计 740）
+  page-38.html  -> 20 条（累计 760）
+  page-39.html  -> 20 条（累计 780）
+  page-40.html  -> 20 条（累计 800）
+  page-41.html  -> 20 条（累计 820）
+  page-42.html  -> 20 条（累计 840）
+  page-43.html  -> 20 条（累计 860）
+  page-44.html  -> 20 条（累计 880）
+  page-45.html  -> 20 条（累计 900）
+  page-46.html  -> 20 条（累计 920）
+  page-47.html  -> 20 条（累计 940）
+  page-48.html  -> 20 条（累计 960）
+  page-49.html  -> 20 条（累计 980）
+  page-50.html  -> 20 条（累计 1000）
+
+========== 过关自检 ==========
+抓取条数：1000 条
+缺失/空白单元格：0 个
+评分取值范围：[np.int64(1), np.int64(2), np.int64(3), np.int64(4), np.int64(5)]
+价格范围：10.0 ~ 59.99
+是否存在乱码：否
+
+已保存：books_结果.csv（1000 行 × 5 列）
+✅ 达标：条数与站点总书量一致、无缺失、无乱码。
+                                                                                               书名     价格  评分        库存                                                                                                                                              详情页链接
+0                                                                            A Light in the Attic  51.77   3  In stock                                                                          https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+1                                                                              Tipping the Velvet  53.74   1  In stock                                                                             https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2                                                                                      Soumission  50.10   1  In stock                                                                                     https://books.toscrape.com/catalogue/soumission_998/index.html
+3                                                                                   Sharp Objects  47.82   4  In stock                                                                                  https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+4                                                           Sapiens: A Brief History of Humankind  54.23   5  In stock                                                           https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+5                                                                                 The Requiem Red  22.65   1  In stock                                                                                https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+6                                              The Dirty Little Secrets of Getting Your Dream Job  33.34   4  In stock                                             https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+7         The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull  17.93   3  In stock          https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+8  The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics  22.60   4  In stock  https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+9                                                                                 The Black Maria  52.15   1  In stock                                                                                https://books.toscrape.com/catalogue/the-black-maria_991/index.html
